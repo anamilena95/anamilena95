@@ -1,12 +1,19 @@
 # Hola  :wave:
 
-### Mi nomnre Ana Milena *** 😁
-***soy de Colombia, Medellin 🇨🇴
-***soy ingeniera biomedica enfoncada en el derrallo de software :mortar_board: 
+### Bienvenido a mi perfil, Mi nombre es Ana Milena *** 😁
 
 
-***--Actualmente Estudio desarrollo de sotfware***
- ***Visita  mi perfil en Linkein [linkedin.com/in/ana-milena-muñoz-885332223]***
+*** soy de Colombia, Medellin :colombia: ***
+
+
+***soy ingeniera biomedica enfoncada en el derrallo de software :mortar_board: ***
+
+
+***Actualmente Estudio desarrollo de sotfware***
+
+
+***Visita  mi perfil en Linkein [linkedin.com/in/ana-milena-muñoz-885332223] ***
+
 
 
 ## Habilidades
