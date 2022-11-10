@@ -1,8 +1,8 @@
 # Hola  :wave:
 
-***Mi nomnre Ana Milena *** :grin:
-***soy de Colombia, Medellin***
-***soy ingeniera biomedica enfoncada en el derrallo de software :mortar_board:*** 
+### Mi nomnre Ana Milena *** 😁
+***soy de Colombia, Medellin 🇨🇴
+***soy ingeniera biomedica enfoncada en el derrallo de software :mortar_board: 
 
 
 ***--Actualmente Estudio desarrollo de sotfware***
