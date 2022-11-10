@@ -20,6 +20,7 @@
 **Me gustan los videojuegos,  Me encantan  los deportes, incluidas actividades al aire libre :runner:** 
 **si quieres saber mas sobre mi no dude en contactarme y hacer codigo juntos. 	:information_desk_person:**
 
+![pokemon-quagsire](https://user-images.githubusercontent.com/117692007/201004382-7b86acd3-f507-48fc-9b8c-0c27b2ea1649.gif)
 
 
 ## contacto :email:
