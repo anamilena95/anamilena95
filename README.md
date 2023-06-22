@@ -22,7 +22,8 @@ habilidades resolución de conflictos, negociación, estandarización de proceso
 * conocimientos previos en python 	:star:
 * conocimientos previos en  HTML 	:star:
 * conocimientos previos en  PHP 	:star:
-
+* conocimientos previos en  SQL 	:star:
+* conocimientos previos en  JAVASCRIPT 	:star:
 
 # Algunos datos divertidos sobre mí: :blue_heart:
 **Me gustan los videojuegos,  Me encantan  los deportes, incluidas actividades al aire libre :runner:** 
