@@ -12,7 +12,8 @@ soy ingeniera biomedica enfoncada en el derrallo de software :mortar_board:
 ***Actualmente Estudio desarrollo de sotfware***
 
 
-Visita  mi perfil en Linkein [linkedin.com/in/ana-milena-muñoz-885332223] 
+Soy una persona analítica y dedicada, con buenas relaciones interpersonales, con muy buena capacidad de aprendizaje y
+habilidades resolución de conflictos, negociación, estandarización de procesos y mejora continua. Me caracterizo por ser proactiva, con principios y valores bien forjados que me permiten ver la vida con pensamiento crítico y realista, sin dejar de lado los deseos de superación personal y profesional. Con excelente manejo de la informática ycapacidad de trabajar en equipo 👩‍🦲
 
 
 
